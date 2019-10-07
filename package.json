@@ -1,6 +1,6 @@
 {
-  "name": "bf-icomoon",
-  "version": "1.0.1",
+  "name": "@bf-ui/bf-icomoon",
+  "version": "1.0.2",
   "description": "Set of icons from icomoon",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

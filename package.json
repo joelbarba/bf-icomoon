@@ -1,5 +1,5 @@
 {
-  "name": "@blueface_npm/bf-icomoon",
+  "name": "bf-icomoon",
   "version": "1.0.3",
   "description": "Set of icons from icomoon",
   "scripts": {
